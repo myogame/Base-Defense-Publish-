@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Turret
+  - EnterBase
+  - Gate
+  - Enemy
+  - Allay_Amor
+  - Ally_Money
+  - Money
+  - Gate_Mine
+  - Gem_Zone
+  - Ally_Mine
+  - Turret_Bullet_Zone
+  - Exploit
+  - UnderFloor
+  - Creature
+  - Boss
+  - BossZone
+  - StartAllyPos
+  - Ally_Gun
+  - DoorHospital
+  - PreventBullet
+  - Range
+  - SoldierFree
+  - RangeCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Collision_1
+  - Turret
+  - Miner
+  - Player
+  - Enemy
+  - WallRed
+  - Money
+  - Ally_Gun
+  - Bullet
+  - Range
+  - BossZone
+  - Wall
+  - PlayerMoney
+  - Boss
+  - BossSkill
+  - Quest
+  - SoldierFree
+  - DoorHospital
+  - RangeCheck
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
